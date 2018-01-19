@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TruckProblem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Locations>
+    <Location idx="0" id="140000761" is_DC="true" preferred_fleet="140005396 140005397 140005398 140005399 140005400 140004996 140004997 140004998 140004999 140005000 140005001 140005002 140005003 140005004 140005005 140005006 140005007 140005008 140005009 140005010 140005011 140005012 140005013 140005014 140005015 140005796 140005797 140005798 140005799 140005800" orders="140004499 140004500 140004501 140004502">
+      <Travel_Data>
+        <Travel_Info location_idx="2" kms="316.05" time="167" />
+        <Travel_Info location_idx="3" kms="317.1" time="168" />
+        <Travel_Info location_idx="1" kms="326.55" time="174" />
+      </Travel_Data>
+    </Location>
+    <Location idx="1" id="140003998" is_DC="false" preferred_fleet="140005396 140005397 140005398 140005399 140005400 140004996 140004997 140004998 140004999 140005000 140005001 140005002 140005003 140005004 140005005 140005006 140005007 140005008 140005009 140005010 140005011 140005012 140005013 140005014 140005015 140005796 140005797 140005798 140005799 140005800" orders="140004499">
+      <Travel_Data>
+        <Travel_Info location_idx="0" kms="327.6" time="175" />
+        <Travel_Info location_idx="2" kms="17.955" time="39" />
+        <Travel_Info location_idx="3" kms="35.595" time="48" />
+      </Travel_Data>
+    </Location>
+    <Location idx="2" id="140003996" is_DC="false" preferred_fleet="140005396 140005397 140005398 140005399 140005400 140004996 140004997 140004998 140004999 140005000 140005001 140005002 140005003 140005004 140005005 140005006 140005007 140005008 140005009 140005010 140005011 140005012 140005013 140005014 140005015 140005796 140005797 140005798 140005799 140005800" orders="140004500 140004501">
+      <Travel_Data>
+        <Travel_Info location_idx="0" kms="318.15" time="170" />
+        <Travel_Info location_idx="3" kms="14.595" time="37" />
+        <Travel_Info location_idx="1" kms="17.85" time="39" />
+      </Travel_Data>
+    </Location>
+    <Location idx="3" id="140003997" is_DC="false" preferred_fleet="140005396 140005397 140005398 140005399 140005400 140004996 140004997 140004998 140004999 140005000 140005001 140005002 140005003 140005004 140005005 140005006 140005007 140005008 140005009 140005010 140005011 140005012 140005013 140005014 140005015 140005796 140005797 140005798 140005799 140005800" orders="140004502">
+      <Travel_Data>
+        <Travel_Info location_idx="0" kms="318.15" time="171" />
+        <Travel_Info location_idx="2" kms="12.915" time="36" />
+        <Travel_Info location_idx="1" kms="35.7" time="51" />
+      </Travel_Data>
+    </Location>
+  </Locations>
+  <Orders>
+    <Order idx="0" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="1" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="2" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="3" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="4" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="5" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="6" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="7" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="8" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="9" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="10" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="11" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="12" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="13" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="14" id="140004499" location_from="140000761" location_to="140003998" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="15" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="16" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="17" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="18" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="19" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="20" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="21" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="22" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="23" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="24" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="25" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="26" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="27" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="28" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="29" id="140004500" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="30" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="31" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="32" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="33" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="34" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="35" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="36" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="37" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="38" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="39" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="40" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="41" id="140004501" location_from="140000761" location_to="140003996" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="42" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="43" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="44" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="45" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="46" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="47" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="48" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="49" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="50" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="51" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+    <Order idx="52" id="140004502" location_from="140000761" location_to="140003997" delivery_start="0" delivery_end="1440" priority="1" min_temp="-10" max_temp="0" pallet_type_idx="0" pallet_quantity="1" weight_per_pallet="100" />
+  </Orders>
+  <Pallets>
+    <Pallet idx="0" type="1" length="120" width="80" height="14" ratio_to_stdPallet="1.5" />
+    <Pallet idx="1" type="2" length="120" width="100" height="14" ratio_to_stdPallet="1.5" />
+  </Pallets>
+  <Fleets>
+    <Fleet idx="0" id="140005396" cost_per_km="2.45" max_weight="8700" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="23" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="1" id="140005397" cost_per_km="2.45" max_weight="8700" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="23" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="2" id="140005398" cost_per_km="2.45" max_weight="8700" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="23" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="3" id="140005399" cost_per_km="2.45" max_weight="8700" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="23" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="4" id="140005400" cost_per_km="2.45" max_weight="8700" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="23" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="5" id="140004996" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="6" id="140004997" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="7" id="140004998" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="8" id="140004999" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="9" id="140005000" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="10" id="140005001" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="11" id="140005002" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="12" id="140005003" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="13" id="140005004" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="14" id="140005005" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="15" id="140005006" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="16" id="140005007" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="17" id="140005008" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="18" id="140005009" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="19" id="140005010" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="20" id="140005011" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="21" id="140005012" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="22" id="140005013" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="23" id="140005014" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="24" id="140005015" cost_per_km="1.4" max_weight="1300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="5" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="25" id="140005796" cost_per_km="3" max_weight="10300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="30" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="26" id="140005797" cost_per_km="3" max_weight="10300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="30" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="27" id="140005798" cost_per_km="3" max_weight="10300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="30" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="28" id="140005799" cost_per_km="3" max_weight="10300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="30" />
+      </Loading_Sections>
+    </Fleet>
+    <Fleet idx="29" id="140005800" cost_per_km="3" max_weight="10300" max_kms="1000" loading_from_side="false" preferred_locations="140000761 140003998 140003996 140003997">
+      <Loading_Sections>
+        <Section min_temp="-10" max_temp="0" capacity_in_stdPallets="30" />
+      </Loading_Sections>
+    </Fleet>
+  </Fleets>
+  <Deliveries />
+</TruckProblem>
