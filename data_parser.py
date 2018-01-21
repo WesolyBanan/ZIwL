@@ -27,7 +27,7 @@ def parse(name):
     vehicles_maxkm = []
 
     # location indexes array ---------------------------
-    locIds = [0] * 4
+    locIds = [0] * len(root[0])
     for loc in root[0]:
         locIds[int(loc.attrib['idx'])] = loc.attrib['id']
 

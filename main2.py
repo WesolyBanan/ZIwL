@@ -42,7 +42,7 @@ class CreateDemandKgCallback(object):
         return self.matrix[from_node]
 
 
-# Create the travel time callback (equals distance divided by speed).
+# Create the travel time callback.
 class CreateTravelTimeCallback(object):
     """Create callback to get travel times between locations."""
 
@@ -53,10 +53,10 @@ class CreateTravelTimeCallback(object):
         return self.travel_times[from_node][to_node]
 
 
-def do_everything(firsto_solutiono_strategeiro, go_back_to_depo=True):
+def do_everything(file_name, firsto_solutiono_strategeiro, go_back_to_depo=True):
     # Create the data.
     # data = create_data_array()
-    data = data_parser.parse('ziwl_data.xml')
+    data = data_parser.parse(file_name)
     locations = data[0]
     travel_times = data[1]
 
@@ -302,11 +302,12 @@ def present_result(result):
         it += 1
 
 def main():
+    file_name = 'ziwl_data_6.xml'
     go_back_to_depo = True
     res = []
-    res.append(do_everything(routing_enums_pb2.FirstSolutionStrategy.SAVINGS, go_back_to_depo))
-    res.append(do_everything(routing_enums_pb2.FirstSolutionStrategy.LOCAL_CHEAPEST_ARC, go_back_to_depo))
-    res.append(do_everything(routing_enums_pb2.FirstSolutionStrategy.AUTOMATIC, go_back_to_depo))
+    res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.SAVINGS, go_back_to_depo))
+    res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.LOCAL_CHEAPEST_ARC, go_back_to_depo))
+    res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.AUTOMATIC, go_back_to_depo))
 
     min = res[0][0]
     for sol in res:

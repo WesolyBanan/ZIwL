@@ -1,0 +1,248 @@
+2 No solution found.
+Total cost of all routes: 12768.628
+Total cost of all routes without return to DC: 6380.75
+
+============================================
+
+Route number: 0        Vehicle: 0
+
+Full route cost: 1553.79
+Full route distance: 634.2 [Km]
+Full route time: 337 [Min]
+
+Route cost without return to DC: 774.32
+Route distance without return to DC: 316.05 [Km]
+Route time without return to DC: 167 [Min]
+
+Vehicle space used: 22.0/23.0 [Std Pallets]
+Vehicle space utilization: 95.65%
+
+Vehicle max weight used: 1500/8700 [Kg]
+Vehicle max weight utilization: 17.24%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+075: leave_time: 167 max_leave_time: 1270
+074: leave_time: 167 max_leave_time: 1270
+073: leave_time: 167 max_leave_time: 1270
+072: leave_time: 167 max_leave_time: 1270
+071: leave_time: 167 max_leave_time: 1270
+070: leave_time: 167 max_leave_time: 1270
+069: leave_time: 167 max_leave_time: 1270
+067: leave_time: 167 max_leave_time: 1270
+068: leave_time: 167 max_leave_time: 1270
+ DC: leave_time: 337 max_leave_time: 1440
+
+============================================
+
+Route number: 1        Vehicle: 1
+
+Full route cost: 1553.79
+Full route distance: 634.2 [Km]
+Full route time: 337 [Min]
+
+Route cost without return to DC: 774.32
+Route distance without return to DC: 316.05 [Km]
+Route time without return to DC: 167 [Min]
+
+Vehicle space used: 21.0/23.0 [Std Pallets]
+Vehicle space utilization: 91.3%
+
+Vehicle max weight used: 2900/8700 [Kg]
+Vehicle max weight utilization: 33.33%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+019: leave_time: 167 max_leave_time: 1270
+018: leave_time: 167 max_leave_time: 1270
+017: leave_time: 167 max_leave_time: 1270
+016: leave_time: 167 max_leave_time: 1270
+076: leave_time: 167 max_leave_time: 1270
+077: leave_time: 167 max_leave_time: 1270
+ DC: leave_time: 337 max_leave_time: 1440
+
+============================================
+
+Route number: 2        Vehicle: 25
+
+Full route cost: 1962.45
+Full route distance: 654.15 [Km]
+Full route time: 349 [Min]
+
+Route cost without return to DC: 979.65
+Route distance without return to DC: 326.55 [Km]
+Route time without return to DC: 174 [Min]
+
+Vehicle space used: 30.0/30.0 [Std Pallets]
+Vehicle space utilization: 100.0%
+
+Vehicle max weight used: 1900/10300 [Kg]
+Vehicle max weight utilization: 18.45%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+056: leave_time: 174 max_leave_time: 1265
+055: leave_time: 174 max_leave_time: 1265
+054: leave_time: 174 max_leave_time: 1265
+015: leave_time: 174 max_leave_time: 1265
+014: leave_time: 174 max_leave_time: 1265
+013: leave_time: 174 max_leave_time: 1265
+012: leave_time: 174 max_leave_time: 1265
+011: leave_time: 174 max_leave_time: 1265
+010: leave_time: 174 max_leave_time: 1265
+009: leave_time: 174 max_leave_time: 1265
+008: leave_time: 174 max_leave_time: 1265
+007: leave_time: 174 max_leave_time: 1265
+006: leave_time: 174 max_leave_time: 1265
+005: leave_time: 174 max_leave_time: 1265
+004: leave_time: 174 max_leave_time: 1265
+003: leave_time: 174 max_leave_time: 1265
+001: leave_time: 174 max_leave_time: 1265
+002: leave_time: 174 max_leave_time: 1265
+ DC: leave_time: 349 max_leave_time: 1440
+
+============================================
+
+Route number: 3        Vehicle: 26
+
+Full route cost: 1905.75
+Full route distance: 635.25 [Km]
+Full route time: 339 [Min]
+
+Route cost without return to DC: 951.3
+Route distance without return to DC: 317.1 [Km]
+Route time without return to DC: 168 [Min]
+
+Vehicle space used: 24.0/30.0 [Std Pallets]
+Vehicle space utilization: 80.0%
+
+Vehicle max weight used: 1700/10300 [Kg]
+Vehicle max weight utilization: 16.5%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+089: leave_time: 168 max_leave_time: 1269
+088: leave_time: 168 max_leave_time: 1269
+087: leave_time: 168 max_leave_time: 1269
+086: leave_time: 168 max_leave_time: 1269
+085: leave_time: 168 max_leave_time: 1269
+084: leave_time: 168 max_leave_time: 1269
+082: leave_time: 168 max_leave_time: 1269
+083: leave_time: 168 max_leave_time: 1269
+ DC: leave_time: 339 max_leave_time: 1440
+
+============================================
+
+Route number: 4        Vehicle: 27
+
+Full route cost: 1905.75
+Full route distance: 635.25 [Km]
+Full route time: 339 [Min]
+
+Route cost without return to DC: 951.3
+Route distance without return to DC: 317.1 [Km]
+Route time without return to DC: 168 [Min]
+
+Vehicle space used: 30.0/30.0 [Std Pallets]
+Vehicle space utilization: 100.0%
+
+Vehicle max weight used: 2100/10300 [Kg]
+Vehicle max weight utilization: 20.39%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+081: leave_time: 168 max_leave_time: 1269
+080: leave_time: 168 max_leave_time: 1269
+079: leave_time: 168 max_leave_time: 1269
+078: leave_time: 168 max_leave_time: 1269
+053: leave_time: 168 max_leave_time: 1269
+052: leave_time: 168 max_leave_time: 1269
+051: leave_time: 168 max_leave_time: 1269
+050: leave_time: 168 max_leave_time: 1269
+049: leave_time: 168 max_leave_time: 1269
+048: leave_time: 168 max_leave_time: 1269
+047: leave_time: 168 max_leave_time: 1269
+046: leave_time: 168 max_leave_time: 1269
+045: leave_time: 168 max_leave_time: 1269
+043: leave_time: 168 max_leave_time: 1269
+044: leave_time: 168 max_leave_time: 1269
+ DC: leave_time: 339 max_leave_time: 1440
+
+============================================
+
+Route number: 5        Vehicle: 28
+
+Full route cost: 1984.5
+Full route distance: 661.5 [Km]
+Full route time: 381 [Min]
+
+Route cost without return to DC: 1001.7
+Route distance without return to DC: 333.9 [Km]
+Route time without return to DC: 206 [Min]
+
+Vehicle space used: 29.5/30.0 [Std Pallets]
+Vehicle space utilization: 98.33%
+
+Vehicle max weight used: 2100/10300 [Kg]
+Vehicle max weight utilization: 20.39%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+023: leave_time: 167 max_leave_time: 1226
+022: leave_time: 167 max_leave_time: 1226
+021: leave_time: 167 max_leave_time: 1226
+020: leave_time: 167 max_leave_time: 1226
+058: leave_time: 206 max_leave_time: 1265
+057: leave_time: 206 max_leave_time: 1265
+059: leave_time: 206 max_leave_time: 1265
+060: leave_time: 206 max_leave_time: 1265
+061: leave_time: 206 max_leave_time: 1265
+062: leave_time: 206 max_leave_time: 1265
+063: leave_time: 206 max_leave_time: 1265
+064: leave_time: 206 max_leave_time: 1265
+065: leave_time: 206 max_leave_time: 1265
+ DC: leave_time: 381 max_leave_time: 1440
+
+============================================
+
+Route number: 6        Vehicle: 29
+
+Full route cost: 1902.6
+Full route distance: 634.2 [Km]
+Full route time: 337 [Min]
+
+Route cost without return to DC: 948.15
+Route distance without return to DC: 316.05 [Km]
+Route time without return to DC: 167 [Min]
+
+Vehicle space used: 30.0/30.0 [Std Pallets]
+Vehicle space utilization: 100.0%
+
+Vehicle max weight used: 2000/10300 [Kg]
+Vehicle max weight utilization: 19.42%
+
+Realize orders:
+ DC: leave_time: 0 max_leave_time: 0
+066: leave_time: 167 max_leave_time: 1270
+042: leave_time: 167 max_leave_time: 1270
+041: leave_time: 167 max_leave_time: 1270
+040: leave_time: 167 max_leave_time: 1270
+039: leave_time: 167 max_leave_time: 1270
+038: leave_time: 167 max_leave_time: 1270
+037: leave_time: 167 max_leave_time: 1270
+036: leave_time: 167 max_leave_time: 1270
+035: leave_time: 167 max_leave_time: 1270
+034: leave_time: 167 max_leave_time: 1270
+033: leave_time: 167 max_leave_time: 1270
+032: leave_time: 167 max_leave_time: 1270
+031: leave_time: 167 max_leave_time: 1270
+030: leave_time: 167 max_leave_time: 1270
+029: leave_time: 167 max_leave_time: 1270
+028: leave_time: 167 max_leave_time: 1270
+027: leave_time: 167 max_leave_time: 1270
+026: leave_time: 167 max_leave_time: 1270
+024: leave_time: 167 max_leave_time: 1270
+025: leave_time: 167 max_leave_time: 1270
+ DC: leave_time: 337 max_leave_time: 1440
+
+============================================
