@@ -22,15 +22,15 @@ Vehicle max weight utilization: 17.24%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-075: leave_time: 167 max_leave_time: 1270
 074: leave_time: 167 max_leave_time: 1270
 073: leave_time: 167 max_leave_time: 1270
 072: leave_time: 167 max_leave_time: 1270
 071: leave_time: 167 max_leave_time: 1270
 070: leave_time: 167 max_leave_time: 1270
 069: leave_time: 167 max_leave_time: 1270
-067: leave_time: 167 max_leave_time: 1270
 068: leave_time: 167 max_leave_time: 1270
+066: leave_time: 167 max_leave_time: 1270
+067: leave_time: 167 max_leave_time: 1270
  DC: leave_time: 337 max_leave_time: 1440
 
 ============================================
@@ -53,12 +53,12 @@ Vehicle max weight utilization: 33.33%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-019: leave_time: 167 max_leave_time: 1270
 018: leave_time: 167 max_leave_time: 1270
 017: leave_time: 167 max_leave_time: 1270
 016: leave_time: 167 max_leave_time: 1270
+015: leave_time: 167 max_leave_time: 1270
+075: leave_time: 167 max_leave_time: 1270
 076: leave_time: 167 max_leave_time: 1270
-077: leave_time: 167 max_leave_time: 1270
  DC: leave_time: 337 max_leave_time: 1440
 
 ============================================
@@ -81,10 +81,9 @@ Vehicle max weight utilization: 18.45%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-056: leave_time: 174 max_leave_time: 1265
 055: leave_time: 174 max_leave_time: 1265
 054: leave_time: 174 max_leave_time: 1265
-015: leave_time: 174 max_leave_time: 1265
+053: leave_time: 174 max_leave_time: 1265
 014: leave_time: 174 max_leave_time: 1265
 013: leave_time: 174 max_leave_time: 1265
 012: leave_time: 174 max_leave_time: 1265
@@ -97,8 +96,9 @@ Realize orders:
 005: leave_time: 174 max_leave_time: 1265
 004: leave_time: 174 max_leave_time: 1265
 003: leave_time: 174 max_leave_time: 1265
-001: leave_time: 174 max_leave_time: 1265
 002: leave_time: 174 max_leave_time: 1265
+000: leave_time: 174 max_leave_time: 1265
+001: leave_time: 174 max_leave_time: 1265
  DC: leave_time: 349 max_leave_time: 1440
 
 ============================================
@@ -121,14 +121,14 @@ Vehicle max weight utilization: 16.5%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-089: leave_time: 168 max_leave_time: 300
 088: leave_time: 168 max_leave_time: 300
 087: leave_time: 168 max_leave_time: 300
 086: leave_time: 168 max_leave_time: 300
 085: leave_time: 168 max_leave_time: 300
-084: leave_time: 168 max_leave_time: 1200
+084: leave_time: 168 max_leave_time: 300
+083: leave_time: 168 max_leave_time: 1200
+081: leave_time: 168 max_leave_time: 1269
 082: leave_time: 168 max_leave_time: 1269
-083: leave_time: 168 max_leave_time: 1269
  DC: leave_time: 339 max_leave_time: 1440
 
 ============================================
@@ -151,11 +151,10 @@ Vehicle max weight utilization: 20.39%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-081: leave_time: 168 max_leave_time: 1269
 080: leave_time: 168 max_leave_time: 1269
 079: leave_time: 168 max_leave_time: 1269
 078: leave_time: 168 max_leave_time: 1269
-053: leave_time: 168 max_leave_time: 1269
+077: leave_time: 168 max_leave_time: 1269
 052: leave_time: 168 max_leave_time: 1269
 051: leave_time: 168 max_leave_time: 1269
 050: leave_time: 168 max_leave_time: 1269
@@ -164,8 +163,9 @@ Realize orders:
 047: leave_time: 168 max_leave_time: 1269
 046: leave_time: 168 max_leave_time: 1269
 045: leave_time: 168 max_leave_time: 1269
-043: leave_time: 168 max_leave_time: 1269
 044: leave_time: 168 max_leave_time: 1269
+042: leave_time: 168 max_leave_time: 1269
+043: leave_time: 168 max_leave_time: 1269
  DC: leave_time: 339 max_leave_time: 1440
 
 ============================================
@@ -188,19 +188,19 @@ Vehicle max weight utilization: 20.39%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-023: leave_time: 167 max_leave_time: 1226
 022: leave_time: 167 max_leave_time: 1226
 021: leave_time: 167 max_leave_time: 1226
 020: leave_time: 167 max_leave_time: 1226
-058: leave_time: 206 max_leave_time: 1265
+019: leave_time: 167 max_leave_time: 1226
 057: leave_time: 206 max_leave_time: 1265
+056: leave_time: 206 max_leave_time: 1265
+058: leave_time: 206 max_leave_time: 1265
 059: leave_time: 206 max_leave_time: 1265
 060: leave_time: 206 max_leave_time: 1265
 061: leave_time: 206 max_leave_time: 1265
 062: leave_time: 206 max_leave_time: 1265
 063: leave_time: 206 max_leave_time: 1265
 064: leave_time: 206 max_leave_time: 1265
-065: leave_time: 206 max_leave_time: 1265
  DC: leave_time: 381 max_leave_time: 1440
 
 ============================================
@@ -223,8 +223,7 @@ Vehicle max weight utilization: 19.42%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-066: leave_time: 167 max_leave_time: 1270
-042: leave_time: 167 max_leave_time: 1270
+065: leave_time: 167 max_leave_time: 1270
 041: leave_time: 167 max_leave_time: 1270
 040: leave_time: 167 max_leave_time: 1270
 039: leave_time: 167 max_leave_time: 1270
@@ -241,8 +240,9 @@ Realize orders:
 028: leave_time: 167 max_leave_time: 1270
 027: leave_time: 167 max_leave_time: 1270
 026: leave_time: 167 max_leave_time: 1270
-024: leave_time: 167 max_leave_time: 1270
 025: leave_time: 167 max_leave_time: 1270
+023: leave_time: 167 max_leave_time: 1270
+024: leave_time: 167 max_leave_time: 1270
  DC: leave_time: 337 max_leave_time: 1440
 
 ============================================

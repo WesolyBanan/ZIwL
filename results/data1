@@ -21,21 +21,21 @@ Vehicle max weight utilization: 17.24%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-008: leave_time: 174 max_leave_time: 1265
 007: leave_time: 174 max_leave_time: 1265
-009: leave_time: 174 max_leave_time: 1265
 006: leave_time: 174 max_leave_time: 1265
-010: leave_time: 174 max_leave_time: 1265
+008: leave_time: 174 max_leave_time: 1265
 005: leave_time: 174 max_leave_time: 1265
-011: leave_time: 174 max_leave_time: 1265
+009: leave_time: 174 max_leave_time: 1265
 004: leave_time: 174 max_leave_time: 1265
-012: leave_time: 174 max_leave_time: 1265
+010: leave_time: 174 max_leave_time: 1265
 003: leave_time: 174 max_leave_time: 1265
-013: leave_time: 174 max_leave_time: 1265
+011: leave_time: 174 max_leave_time: 1265
 002: leave_time: 174 max_leave_time: 1265
-014: leave_time: 174 max_leave_time: 1265
+012: leave_time: 174 max_leave_time: 1265
 001: leave_time: 174 max_leave_time: 1265
-015: leave_time: 174 max_leave_time: 1265
+013: leave_time: 174 max_leave_time: 1265
+000: leave_time: 174 max_leave_time: 1265
+014: leave_time: 174 max_leave_time: 1265
  DC: leave_time: 349 max_leave_time: 1440
 
 ============================================
@@ -58,25 +58,25 @@ Vehicle max weight utilization: 18.45%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-028: leave_time: 167 max_leave_time: 1270
 027: leave_time: 167 max_leave_time: 1270
-029: leave_time: 167 max_leave_time: 1270
 026: leave_time: 167 max_leave_time: 1270
-030: leave_time: 167 max_leave_time: 1270
+028: leave_time: 167 max_leave_time: 1270
 025: leave_time: 167 max_leave_time: 1270
-031: leave_time: 167 max_leave_time: 1270
+029: leave_time: 167 max_leave_time: 1270
 024: leave_time: 167 max_leave_time: 1270
-032: leave_time: 167 max_leave_time: 1270
+030: leave_time: 167 max_leave_time: 1270
 023: leave_time: 167 max_leave_time: 1270
-033: leave_time: 167 max_leave_time: 1270
+031: leave_time: 167 max_leave_time: 1270
 022: leave_time: 167 max_leave_time: 1270
-034: leave_time: 167 max_leave_time: 1270
+032: leave_time: 167 max_leave_time: 1270
 021: leave_time: 167 max_leave_time: 1270
-035: leave_time: 167 max_leave_time: 1270
+033: leave_time: 167 max_leave_time: 1270
 020: leave_time: 167 max_leave_time: 1270
-036: leave_time: 167 max_leave_time: 1270
+034: leave_time: 167 max_leave_time: 1270
 019: leave_time: 167 max_leave_time: 1270
-037: leave_time: 167 max_leave_time: 1270
+035: leave_time: 167 max_leave_time: 1270
+018: leave_time: 167 max_leave_time: 1270
+036: leave_time: 167 max_leave_time: 1270
  DC: leave_time: 337 max_leave_time: 1440
 
 ============================================
@@ -99,25 +99,25 @@ Vehicle max weight utilization: 18.45%
 
 Realize orders:
  DC: leave_time: 0 max_leave_time: 0
-046: leave_time: 168 max_leave_time: 1234
-047: leave_time: 168 max_leave_time: 1234
 045: leave_time: 168 max_leave_time: 1234
-048: leave_time: 168 max_leave_time: 1234
+046: leave_time: 168 max_leave_time: 1234
 044: leave_time: 168 max_leave_time: 1234
-049: leave_time: 168 max_leave_time: 1234
+047: leave_time: 168 max_leave_time: 1234
 043: leave_time: 168 max_leave_time: 1234
-050: leave_time: 168 max_leave_time: 1234
-053: leave_time: 168 max_leave_time: 1234
+048: leave_time: 168 max_leave_time: 1234
+042: leave_time: 168 max_leave_time: 1234
+049: leave_time: 168 max_leave_time: 1234
 052: leave_time: 168 max_leave_time: 1234
 051: leave_time: 168 max_leave_time: 1234
-042: leave_time: 204 max_leave_time: 1270
-018: leave_time: 204 max_leave_time: 1270
-038: leave_time: 204 max_leave_time: 1270
-017: leave_time: 204 max_leave_time: 1270
-039: leave_time: 204 max_leave_time: 1270
-016: leave_time: 204 max_leave_time: 1270
-040: leave_time: 204 max_leave_time: 1270
+050: leave_time: 168 max_leave_time: 1234
 041: leave_time: 204 max_leave_time: 1270
+017: leave_time: 204 max_leave_time: 1270
+037: leave_time: 204 max_leave_time: 1270
+016: leave_time: 204 max_leave_time: 1270
+038: leave_time: 204 max_leave_time: 1270
+015: leave_time: 204 max_leave_time: 1270
+039: leave_time: 204 max_leave_time: 1270
+040: leave_time: 204 max_leave_time: 1270
  DC: leave_time: 374 max_leave_time: 1440
 
 ============================================

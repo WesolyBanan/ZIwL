@@ -185,7 +185,7 @@ def do_everything(file_name, firsto_solutiono_strategeiro, go_back_to_depo=True)
                 while not routing.IsEnd(index):
                     node_index = routing.IndexToNode(index)
                     time_var = time_dimension.CumulVar(index)
-                    tmp_orders.append([node_index, assignment.Min(time_var), assignment.Max(time_var)])
+                    tmp_orders.append([node_index-1, assignment.Min(time_var), assignment.Max(time_var)])
                     kilometers_var = kilometers_dimension.CumulVar(index)
                     time_var = time_dimension.CumulVar(index)
                     h_route_dist = assignment.Value(kilometers_var) / 1000
@@ -210,7 +210,7 @@ def do_everything(file_name, firsto_solutiono_strategeiro, go_back_to_depo=True)
                 # print(plan_output)
                 # print("\n")
 
-                tmp_orders.append([node_index, assignment.Min(time_var), assignment.Max(time_var)])
+                tmp_orders.append([node_index-1, assignment.Min(time_var), assignment.Max(time_var)])
 
                 tmp_route.append(vehicle_nbr)
 
@@ -294,7 +294,7 @@ def present_result(result):
 
         print("Realize orders:")
         for o in r[13]:
-            if o[0] == 0:
+            if o[0] == -1:
                 print(" DC: leave_time: " + str(o[1]) + " max_leave_time: " + str(o[2]))
             else:
                 print("%03d: leave_time: "% o[0] + str(o[1]) + " max_leave_time: " + str(o[2]))
@@ -306,7 +306,7 @@ def main():
     go_back_to_depo = True
     res = []
     res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.SAVINGS, go_back_to_depo))
-    res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.LOCAL_CHEAPEST_ARC, go_back_to_depo))
+    # res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.LOCAL_CHEAPEST_ARC, go_back_to_depo))
     res.append(do_everything(file_name, routing_enums_pb2.FirstSolutionStrategy.AUTOMATIC, go_back_to_depo))
 
     min = res[0][0]

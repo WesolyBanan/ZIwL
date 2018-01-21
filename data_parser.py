@@ -135,7 +135,6 @@ def parse(name):
     #     print("\nvehicles_kg:", vehicles_kg)
     #     print("\nvehicles_cost:", vehicles_cost)
     #     print("\nvehicles_maxkm:", vehicles_maxkm)
-
     data = [locations, travel_times, demands_pal, demands_kg, start_times, end_times, vehicles_pal, vehicles_kg,
             vehicles_cost, vehicles_maxkm]
     return data
